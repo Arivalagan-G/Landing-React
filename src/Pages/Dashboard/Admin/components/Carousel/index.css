@@ -1,0 +1,49 @@
+.carousel-card {
+  color: #fff !important;
+  text-align: center !important;
+  background: #8282f299 !important;
+  margin: 0 !important;
+  padding: 15px !important;
+  border-radius: 10px !important;
+}
+
+.carousel-card-image {
+  position: relative;
+  display: inherit;
+}
+
+.carousel-card-image > img {
+  object-fit: contain;
+  top: 0;
+  height: 150px;
+  margin: 0;
+}
+
+.carousel-card-title {
+  color: black !important;
+  font-size: 20px;
+  margin: 10px 0;
+}
+
+.slick-dots.slick-dots-bottom {
+  bottom: 0;
+  color: yellow;
+}
+
+.slick-slide {
+  margin-left: 25px;
+}
+
+.slick-list {
+  margin-left: -25px;
+  height: 270px;
+}
+.slick-dots.slick-dots-bottom li {
+  background: #4e44fb87;
+}
+.slick-dots.slick-dots-bottom li.slick-active > button {
+  background: black;
+}
+.top-category-carousel .slick-track {
+  width: 100% !important;
+}
