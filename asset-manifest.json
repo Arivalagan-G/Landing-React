@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Landing-React/static/css/main.e18fe1b6.css",
+    "main.js": "/Landing-React/static/js/main.0697214f.js",
+    "static/js/787.8e8ffda9.chunk.js": "/Landing-React/static/js/787.8e8ffda9.chunk.js",
+    "static/media/img1.jpeg": "/Landing-React/static/media/img1.2cdc5f36f603405938aa.jpeg",
+    "static/media/Search.jpg": "/Landing-React/static/media/Search.94477547742ae416a8d8.jpg",
+    "static/media/interviewprep.png": "/Landing-React/static/media/interviewprep.cf6a3065ff2b783b6e75.png",
+    "static/media/icon.jpg": "/Landing-React/static/media/icon.2c88b2acd62b92a2aaa6.jpg",
+    "static/media/few.webp": "/Landing-React/static/media/few.02912f97504f5b3164c0.webp",
+    "static/media/profile.jpg": "/Landing-React/static/media/profile.fc0963e127f7a72413f8.jpg",
+    "index.html": "/Landing-React/index.html",
+    "main.e18fe1b6.css.map": "/Landing-React/static/css/main.e18fe1b6.css.map",
+    "main.0697214f.js.map": "/Landing-React/static/js/main.0697214f.js.map",
+    "787.8e8ffda9.chunk.js.map": "/Landing-React/static/js/787.8e8ffda9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e18fe1b6.css",
+    "static/js/main.0697214f.js"
+  ]
+}
